@@ -1,0 +1,12 @@
+The two folders are divided into two
+
+Assignment2 -> sort folder (couldnt fix the name change the last minute)
+
+hanoi_ascii -> hanoi folder
+
+Note -> If you want to run individual files from the two folders. you have to comment all .cs files
+        and then paste the one you want to run to program.cs. and if there are no additional args to run
+        the command is -> dotnet build && dotnet run.
+
+        make sure that every other program is commented out as the dotnet command searches for the program class 
+        in all files... ^^ something that i had to learn along the way..
